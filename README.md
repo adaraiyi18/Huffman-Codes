@@ -57,13 +57,12 @@ Requirements: C++ compiler (like g++) (C++11 or later)
 ```bash
 g++ studentTests.cpp -o huffman
 ./huffman
+```
 
 ## Example Usage
 Input string to get the huffman conversion
 >> hello
 Compressed size: 13
-
-
 
 ## Notes
 This implementation is a simplified simulation and does not output the actual binary code or encode/decode files.
