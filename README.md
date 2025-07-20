@@ -1,10 +1,10 @@
 ## Huffman Coding Compression Project
-CS 271 — Spring 2025  
+Spring 2025  
 Author: IyiOluwa Adaramola  
 Project: Huffman Coding Algorithm Implementation and Testing
 
 ## Overview
-This project implements Huffman Coding, a lossless data compression algorithm. It builds a binary tree based on the frequency of characters in a given string and calculates the compressed size of that string using optimal binary encodings.
+This project implements Huffman Coding, a lossless data compression algorithm. It builds a binary tree based on the frequency of characters in a given string and calculates the compressed size of that string using optimal binary encodings. This builds on the knowledge I have gained from my CS271 Data Structures class.
 
 ## What This Project Does
 Encodes strings using Huffman coding
