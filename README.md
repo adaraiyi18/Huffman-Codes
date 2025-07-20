@@ -54,20 +54,17 @@ Uncomment them in main() to run individually and validate correctness via assert
 Requirements: C++ compiler (like g++) (C++11 or later)
 
 ## Compile & Run
-bash
-Copy
-Edit
+```bash
 g++ studentTests.cpp -o huffman
 ./huffman
-You will be prompted to input a string, and the compressed bit size will be printed.
 
 ## Example Usage
-pgsql
-Copy
-Edit
 Input string to get the huffman conversion
 >> hello
 Compressed size: 13
+
+
+
 ## Notes
 This implementation is a simplified simulation and does not output the actual binary code or encode/decode files.
 
