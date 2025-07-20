@@ -1,6 +1,6 @@
 ## Huffman Coding Compression Project
-CS 271 — Spring 2025
-Author: IyiOluwa Adaramola
+CS 271 — Spring 2025  
+Author: IyiOluwa Adaramola  
 Project: Huffman Coding Algorithm Implementation and Testing
 
 ## Overview
@@ -60,9 +60,11 @@ g++ studentTests.cpp -o huffman
 ```
 
 ## Example Usage
+```
 Input string to get the huffman conversion
 >> hello
 Compressed size: 13
+```
 
 ## Notes
 This implementation is a simplified simulation and does not output the actual binary code or encode/decode files.
